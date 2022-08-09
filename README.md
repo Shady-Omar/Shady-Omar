@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Shady-Omar&label=Profile%20views&color=0e75b6&style=plastic" alt="Shady-Omar" />  
+	<img src="https://komarev.com/ghpvc/?username=Shady-Omar&label=Profile%20views&color=0e75b6&style=plastic" alt="Shady-Omar" /> <br>
 	 <a href="https://www.w3.org/html/" target="_blank"> 
 	    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	 </a>   
