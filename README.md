@@ -55,6 +55,7 @@
 - 📘 Always `learning new things` and exploring `new technologies`.
 
 <h2 align="center">📊 My Contribution Stats 📊</h2>
+
 ![Snake animation](https://github.com/Shady-Omar/Shady-Omar/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">📈 My GitHub Stats 📈</h2>
