@@ -64,12 +64,12 @@
 <h2 align="center">📈 My GitHub Stats 📈</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shady-Omar&show_icons=true&theme=radical&line_height=27" alt="Shady Omar's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shady-Omar&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=belalalk&show_icons=true&theme=radical&line_height=27" alt="Shady Omar's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalalk&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shady-Omar&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="Shady Omar's Streak Stats"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=belalalk&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="Shady Omar's Streak Stats"/>
 </p> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shady-Omar&bg_color=0d1117&color=9e4c98&line=f2428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
