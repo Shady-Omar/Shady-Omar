@@ -64,8 +64,8 @@
 <h2 align="center">📈 My GitHub Stats 📈</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belalalk&show_icons=true&theme=radical&line_height=27" alt="Shady Omar's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalalk&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shady-Omar&show_icons=true&theme=radical&line_height=27" alt="Shady Omar's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shady-Omar&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
